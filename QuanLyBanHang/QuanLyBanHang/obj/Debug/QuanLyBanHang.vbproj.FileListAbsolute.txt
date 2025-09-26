@@ -1,0 +1,26 @@
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.xml
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.AssemblyReference.cache
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Resources.resources
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.cache
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.CoreCompileInputs.cache
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+D:\Đồ Án VB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.xml
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Resources.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang..resources
